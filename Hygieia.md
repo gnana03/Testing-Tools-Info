@@ -1,5 +1,4 @@
-# Testing-Tools-Info
-This provides a document on basic information about testing tools
+# Info about Hygieia
 
 1. What is the Macro View of Hygieia?
 Hygieia appears in two self-contained dashboards – one for engineers and another for executives - that visually depict CICD pipelines. In essence, Hygieia itself is an aggregator that pulls data from various DevOps tools that teams use in their CICD pipeline, making it easily digestible in dashboard view(s). Although it is an easily manipulated tool, Hygieia provides complex insights into the following areas:
